@@ -1,0 +1,47 @@
+.cuadro-1{
+  
+    background-color: rgb(218, 184, 250);
+    padding: 10px;
+            color: white;
+            text-align: center;
+}
+.cuadro-2{
+   
+    background-color: rgb(250, 184, 225);
+    padding: 10px;
+            text-align: center;
+            color: white;
+
+}
+.cuadro-3{
+   width: 200px; /*ancho*/
+   height: 200px; /*alto*/
+    background-color: rgb(246, 250, 184);
+    padding: 20px;
+            color: white;
+}
+.cuadro-4{
+ 
+    background-color: rgb(184, 213, 250);
+   
+    width: 250px; /*ancho*/
+   height: 200px; /*alto*/
+   padding: 20px;
+    color: white;
+    display: flex;
+    gap: 10px;
+  float:none;
+  float:right;
+  float: initial;
+
+
+  
+ 
+}
+.cuadro-5{
+ 
+    background-color: rgb(184, 250, 214);
+    padding: 10px;
+            color: white;
+            text-align: center;
+}
